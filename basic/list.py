@@ -18,6 +18,7 @@
 
 list_1 = ['ab', 'cd', 'ef']
 
+
 as_ci = []
 for i in list_1:
     sum = 0
@@ -26,3 +27,5 @@ for i in list_1:
         sum = sum+asci
     as_ci.append(asci)
 print(as_ci)
+ 
+

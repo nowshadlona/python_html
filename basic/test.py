@@ -225,6 +225,7 @@ print(as_ci)
 # list_1 = (sum,sum1,sum2)
 # print(list_1)
 name = "sam"
+print(name)
 # after modify the file to send at git account
 # git add .
 # git status
